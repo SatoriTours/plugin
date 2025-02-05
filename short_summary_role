@@ -12,16 +12,3 @@ EXAMPLE JSON OUTPUT:
     "summary": "文章的核心内容",
     "tags": ["标签1"]
 }
-''',
-    'long_summary_result': '''
-概述:
-
-{{summary}}
-
-关键内容:
-
-{{keyContents}}
-
-关键案例:
-
-{{cases}}
