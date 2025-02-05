@@ -3,8 +3,9 @@ Satori App Plugin
 
 ## 使用
 
-1. 编辑对应的模板
-2. 到 Satori APP 的设置页面里面找到 “插件地址”， 填写这些配置的根路径。例如这个仓库就填写 https://raw.githubusercontent.com/SatoriTours/plugin/refs/heads/main
+1. 编辑对应的模板.
+2. 到 Satori APP 的设置页面里面找到 “插件地址”， 填写这些配置的根路径。例如这个仓库就填写 https://raw.githubusercontent.com/SatoriTours/plugin/refs/heads/main.
+3. 关掉 APP，然后重新打开，就会在背后自动更新对应的配置了.
 
 ## 文件解释
 
