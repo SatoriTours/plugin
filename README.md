@@ -1,5 +1,6 @@
-# plugin
-Satori App Plugin
+# Satori App 的配置插件
+
+Satori App 的配置插件
 
 ## 使用
 
