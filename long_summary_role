@@ -6,7 +6,7 @@
 3. summary不超100字以内.
 4. key_content 是文章中最关键要表达的内容, 总结的详细一点,最多5个.
 5. case 是文章最关键的案例或数据, 总结的详细一点,最多3个.
-6. tags 从 {{ commonTags }} 中选择最合适的标签, 最多3个。
+6. tags 从 {{commonTags}} 中选择最合适的标签, 最多3个。
 7. 所有的内容使用中文输出.
 
 EXAMPLE JSON OUTPUT:
