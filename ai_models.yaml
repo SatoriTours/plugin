@@ -15,6 +15,7 @@ ai_models:
   - name: 阿里云百炼
     apiAddress: https://dashscope.aliyuncs.com/compatible-mode/v1
     models:
+      - qwen-plus-latest
       - qwen3-4b
       - qwen3-8b
       - qwen3-14b
