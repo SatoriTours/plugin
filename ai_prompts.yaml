@@ -100,7 +100,7 @@ ai_prompts:
         - 不遗漏任何文本
         - 不改变原有信息顺序
         - 原生HTML标签,超长URL,连续感叹号
-      5. 请只返回转换后的Markdown内容,不要添加任何解释或说明。
+      5. 请只返回转换后的Markdown内容,不要添加任何解释或说明，所有内容使用中文输出
 
   - key: book_recommend_by_category
     content: |
