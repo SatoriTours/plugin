@@ -41,6 +41,9 @@ ai_models:
     apiAddress: https://api.moonshot.cn/v1
     models:
       - kimi-k2-turbo-preview
+      - kimi-k2-0905-preview
+      - kimi-k2-thinking-turbo
+      - kimi-k2-thinking
   - name: GLM
     apiAddress: https://open.bigmodel.cn/api/paas/v4
     models:
