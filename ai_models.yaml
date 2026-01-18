@@ -2,8 +2,8 @@ ai_models:
   - name: OpenAI API
     apiAddress: https://api.openai.com/v1
     models:
-      - gpt-3.5-turbo
-      - gpt-4
+      - gpt-5.1-chat-latest
+      - gpt-5.1-turbo
       - gpt-4-turbo
       - gpt-4-vision
   - name: DeepSeek API
