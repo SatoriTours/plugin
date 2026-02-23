@@ -47,7 +47,7 @@ ai_models:
   - name: GLM
     apiAddress: https://open.bigmodel.cn/api/paas/v4
     models:
-      - glm-4.7
+      - glm-5
   - name: MiniMax
     apiAddress: https://api.minimaxi.com/v1
     models:
